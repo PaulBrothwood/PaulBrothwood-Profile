@@ -10,11 +10,11 @@ I am a passionate leader and advocate for humanitarian efforts, sustainability, 
    - [Read the story here](https://www.expressandstar.com/news/uk-news/2019/02/02/controversial-poet-freed-after-bill-steps-in/)
 
 ### 2. Speaking at the United Nations
-   - Delivered a speech at the UN's Fourth Committee on Decolonization, emphasizing development in Western Sahara and Morocco’s autonomy plan as a pathway to economic stability.
+   - Delivered a speech at the UN's Fourth Committee on Decolonisation, emphasising development in Western Sahara and Morocco’s autonomy plan as a pathway to economic stability.
    - [Read more on the UN session](https://viribusnews.com/un-fourth-committee-on-decolonization/)
 
 ### 3. Community Fundraising for Stroke Rehabilitation
-   - Organized and led fundraising events with the Harley Owners' Group to support the Well Wishers Stroke Rehabilitation Garden at Walsall Manor Hospital, raising £700 for the project.
+   - Organised and led fundraising events with the Harley Owners' Group to support the Well Wishers Stroke Rehabilitation Garden at Walsall Manor Hospital, raising £700 for the project.
    - [Details on the charity event](https://www.walsallhealthcare.nhs.uk/news/2022/11/30/hopelessly-devoted-to-harley-fundraisers/)
 
 ---
