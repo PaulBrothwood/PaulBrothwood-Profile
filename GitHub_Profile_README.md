@@ -1,5 +1,5 @@
 
-# Welcome to My GitHub Profile
+# Welcome to Paul Brothwood's GitHub Profile
 
 I am a passionate leader and advocate for humanitarian efforts, sustainability, and operational excellence. My work spans diverse projects and engagements, from speaking on international platforms to hands-on community support.
 
@@ -20,3 +20,5 @@ I am a passionate leader and advocate for humanitarian efforts, sustainability, 
 ---
 
 Thank you for visiting my GitHub profile! Connect with me to learn more about my work and shared interests in sustainable and impactful leadership.
+
+Paul Brothwood
