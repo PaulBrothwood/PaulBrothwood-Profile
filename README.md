@@ -1,21 +1,19 @@
 # PaulBrothwood-Profile
 Personal project
-# 👋 Hi, I'm Paul Brothwood
+# 👋 Hi, I’m Paul Brothwood
 
-## About Me:
-I'm the Chief Operating Officer of T Newman Ltd, a company specializing in construction, scaffolding, and roofing. With a passion for sustainability, I have extensive experience in project management, HSEQ compliance, and environmental leadership. I also enjoy exploring how technology can improve business efficiency, particularly in construction.
+Senior Manager at National Grid Electricity Distribution | Sustainability Leader | Mentor | Motorcycling Enthusiast  
 
-## What I’m Working On:
-- Exploring how digital tools can optimise project management in construction.
-- Collaborating on sustainability projects that reduce the environmental impact in small businesses.
-- Always keen to learn more about emerging technologies in the construction industry.
+🌍 I focus on:
+- Embedding ISO 14001, ISO 45001, and ISO 9001 into real business practice  
+- Driving sustainability and carbon reduction in utilities and SMEs  
+- Supporting colleagues through mentoring, training, and leadership  
 
-## Interests:
-- Environmental sustainability in construction.
-- Scaffolding, roofing, and general construction management.
-- Riding my Hayabusa and exploring new places on two wheels.
-- Scuba diving and ocean conservation.
+📌 Featured Repositories:
+- [Sustainable-Construction-Practices-SMEs](https://github.com/PaulBrothwood/Sustainable-Construction-Practices-SMEs)  
+- [Leadership-Blog-List](https://github.com/PaulBrothwood/Leadership-Blog-List)  
 
-## How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/paulbrothwood)
-- [Email](mailto:paul.brothwood@tnewmanltd.co.uk)
+📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/paul-brothwood) | [Medium](https://medium.com/@paulbrothwood) | [Instagram](https://instagram.com/paulbrothwood)  
+
+---
